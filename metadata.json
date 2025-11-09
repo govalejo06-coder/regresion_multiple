@@ -1,0 +1,4 @@
+{
+  "name": "Predicción de Ventas",
+  "description": "Una aplicación web interactiva para cargar datos, construir un modelo de regresión múltiple y predecir ventas. Utiliza la API de Gemini para proporcionar análisis de datos inteligentes."
+}
